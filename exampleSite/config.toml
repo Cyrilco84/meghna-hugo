@@ -1,5 +1,5 @@
 baseURL = "https://cyrilco-test.netlify.com"
-disableLanguages = [""]
+disableLanguages = ["en"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
